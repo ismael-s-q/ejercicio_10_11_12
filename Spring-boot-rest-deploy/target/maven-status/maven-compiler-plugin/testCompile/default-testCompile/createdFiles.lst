@@ -1,0 +1,3 @@
+com\ismael\Springbootrestdeploy\SpringBootRestDeployApplicationTests.class
+com\ismael\Springbootrestdeploy\controller\LaptopControllerTest.class
+com\ismael\Springbootrestdeploy\service\LaptopPriceCalculatorTest.class
